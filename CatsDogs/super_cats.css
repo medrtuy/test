@@ -1,0 +1,24 @@
+body{
+    background-image: url(Cats/5.jpg);
+}
+.gipol{
+    width:74%;
+    padding: 3%;
+    margin-left:20%; 
+}
+img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.minu{
+    position: fixed;
+    top: 0px;
+    width: 20%;
+    height: 100%;
+    background-color: darkolivegreen;
+    left: 0px;
+}
+.minu a{
+    color: aqua;
+    text-decoration: none;
+}
